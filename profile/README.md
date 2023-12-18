@@ -17,6 +17,6 @@ Somos uma pequena comunidade de desenvolvedores que se uniram através de um gru
 <br>
 <br>
 
-## <img align="left" height="190px" width="200" src="https://images.unsplash.com/photo-1565843708714-52ecf69ab81f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80" style="border-radius: 10px; padding-right: 10px"/> Qual são nossos objetivos?
+## <img align="left" height="190px" width="200" src="https://images.unsplash.com/photo-1565843708714-52ecf69ab81f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80" style="border-radius: 10px; padding-right: 10px"/> Quais são nossos objetivos?
 
 Nossos objetivos como comunidade de desenvolvedores são simples e diretos: aprender e crescer juntos. Acreditamos que, trabalhando em conjunto e compartilhando nossos conhecimentos, podemos alcançar níveis mais altos de habilidade e conhecimento. Estamos sempre buscando novos desafios e projetos para trabalhar e colaborar, para que possamos continuar nos desenvolvendo como desenvolvedores. Além disso, queremos criar uma comunidade acolhedora e inclusiva, onde todos sejam bem-vindos e sintam-se confortáveis em compartilhar suas ideias e opiniões.
